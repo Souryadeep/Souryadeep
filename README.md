@@ -4,7 +4,7 @@
 
 - 🔭 My passion lies at the interface of Software and Hardware
 - 🌱 I’m currently pursuing a graduate degree from Columbia Univerity (New York) in Computer Engineering
-- 👨‍💼 Worked at Qualcomm (Singapore) for over 3 years prior to Qualcomm, in post silicon product development
+- 👨‍💼 Worked at Qualcomm (Singapore) for over 3 years prior to Columbia, in post silicon product development
 - 👯 I’m looking for mentors to guide me in my journey towards software, having a background in hardware
 - 💬 Ask me about what motivates me
 - 📧 How to reach me: souryadeep.sen@columbia.edu
