@@ -1,4 +1,5 @@
-### Hi there 👋 I am Souryadeep. Would be happy to connect on [LinkedIn](https://www.linkedin.com/in/souryadeep/) if our goals align or you just would like to discuss on any topic of interest.
+### Hi there 👋 I am Souryadeep. 
+### Connect with me on [LinkedIn](https://www.linkedin.com/in/souryadeep/)
 
 #### A bit about myself:
 
