@@ -10,6 +10,6 @@
 - 💬 Ask me about what motivates me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love running long distance. Clocking 4:30/Km over a 5Km run, not too bad for a non-professional.. 
-- 💡 'You're worst enemy is yourself'. 'Delay gratification' - My favorite quotes
+- 💡 'Your worst enemy is yourself'. 'Delay gratification' - My favorite quotes
 - 📈 Getting started on my journey in investing. Majorly focussed on the US and India tech/pharma stock market
 
