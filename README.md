@@ -10,5 +10,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love running long distance. Clocking 4:30/Km over a 5Km run, not too bad for a non-professional.. 
 - 💡 'Your worst enemy is yourself'. 'Delay gratification' - My favorite quotes
-- 📈 Getting started on my journey in investing. Majorly focussed on the US and India tech/pharma stock market
+- 📈 I invest. Majorly focussed on the US and India tech/pharma stock market
 
