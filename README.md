@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Souryadeep. 
-### Connect with me on [LinkedIn](https://www.linkedin.com/in/souryadeep/)
+### Connect with me on [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/souryadeep/)
 
 #### A bit about myself:
 
