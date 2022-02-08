@@ -15,12 +15,3 @@
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souryadeep&langs_count=10&layout=compact)](https://github.com/Souryadeep/github-readme-stats)
 
 
-<table>
-<tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souryadeep&layout=compact&show_icons=true&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Souryadeep&show_icons=true&hide=contribs,issues&hide_border=true" />
-  </td>
-</tr>
-<table>
-
