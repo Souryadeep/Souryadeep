@@ -12,7 +12,7 @@
 - 💡 'Your worst enemy is yourself'. 'Delay gratification' - My favorite quotes
 - 📈 I invest. Majorly focussed on the US and India tech/pharma stock market  
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souryadeep&langs_count=8)](https://github.com/Souryadeep/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souryadeep&langs_count=10&layout=compact)](https://github.com/Souryadeep/github-readme-stats)
 
 
 <table>
