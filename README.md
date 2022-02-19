@@ -17,3 +17,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souryadeep&langs_count=10&layout=compact)](https://github.com/Souryadeep/github-readme-stats)
 
 
+#### Current Projects:
+
+- @Programming Systems Lab (Columbia University): Improving system performance w.r.t network I/O using extended-BFP [Link](https://ebpf.io/)
+- @Operating Systems Course Project (Columbia University): Implementing custom scheduler for the Linux kernel
+- @Embedded Systems Design Course Project (Columbia University): Implementing a video game using the Intel DE1-SOC board. Project involves both, writing System Verilog code to syntesize hardware on the Cyclone V FPGA and software in C to interface with the hardware (linux device drivers) which includes multiple peripherals like display, keys and the likes, as well as user level code to run the game.
