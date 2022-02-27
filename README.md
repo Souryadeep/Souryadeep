@@ -21,4 +21,4 @@
 
 - 1️⃣**Programming Systems Lab** (Columbia University): Improving system performance w.r.t network I/O using extended-BFP [Link](https://ebpf.io/)
 - 2️⃣**Operating Systems Course Project** (Columbia University): Implementing custom scheduler for the Linux kernel
-- 3️⃣**Embedded Systems Design Course Project** (Columbia University): Implementing a video game using the Intel DE1-SOC board. Project involves both, writing System Verilog code to syntesize hardware on the Cyclone V FPGA and software in C to interface with the hardware (linux device drivers) which includes multiple peripherals like display, keys and the likes, as well as user level code to run the game.
+- 3️⃣**Embedded Systems Design Course Project** (Columbia University): Implementing a video game using the Intel DE1-SOC board. Re-create ray casting algorithm in hardware using System Verilog, synthesized on the Cyclone V FPGA, create a Maze on a display, implement peripheral input to allow player to navigate the maze and also implement an auto-solver using BFS/DFS graph algorightms, using user-space C code.
