@@ -13,7 +13,8 @@
 - 📈 I invest. Majorly focussed on the US and India tech/pharma stock market  
 
   
-📊 Language Stats
+📊 Language Stats  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souryadeep&langs_count=10&layout=compact)](https://github.com/Souryadeep/github-readme-stats)
 
 
