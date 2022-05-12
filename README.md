@@ -22,4 +22,3 @@
 
 - 1️⃣**Programming Systems Lab** (Columbia University): Improving system performance w.r.t network I/O using extended-BPF [Link](https://ebpf.io/)
 - 2️⃣**Operating Systems Course Project** (Columbia University): Implementing custom scheduler for the Linux kernel called Freezer, and a custom File System
-- 3️⃣**Embedded Systems Design Course Project** (Columbia University): Implementing a video game using the Intel DE1-SOC board. Re-create ray casting algorithm in hardware using System Verilog, synthesized on the Cyclone V FPGA, create a Maze on a display, implement peripheral input to allow player to navigate the maze and also implement an auto-solver using BFS/DFS graph algorightms, using user-space C code.
