@@ -18,8 +18,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souryadeep&langs_count=10&layout=compact)](https://github.com/Souryadeep/github-readme-stats)
 
 
-#### Current Projects:
 
-- 1️⃣**Programming Systems Lab** (Columbia University): Improving system performance w.r.t network I/O using extended-BPF [Link](https://ebpf.io/)
-- 2️⃣**Operating Systems Course Project** (Columbia University): Implementing custom scheduler for the Linux kernel called Freezer, and a custom File System
-- 3️⃣**Embedded Systems Course Project** (Columbia University): Collaborated on creating a maze game using the ray-casting algo on a Altera FPGA interfaced w/ a ARM HPS
